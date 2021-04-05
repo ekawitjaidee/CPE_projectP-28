@@ -17,7 +17,8 @@
   4.2 simulation.ipynb : use to simulate our model trades (#use Model_LSTM.h5)<br />
 5.Dataset and etc<br />
   -Files required for the program<br />
-Python Library<br />
+  <br />
+Python Library(require)<br />
 -Pandas<br />
 -numpy<br />
 -matplotlib<br />
