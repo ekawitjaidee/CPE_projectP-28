@@ -9,12 +9,15 @@
   2.2 MACD parameter.ipynb : Use to find a parameter most pofitable of MACD Indicator using Genatic Algorithm(Use GA.py)<br /> 
   2.3 Prepocess.ipynb : Use to add indicator to stock data<br />
   #All file use stock data from GT directory<br />
+  <br />
 3.Training Model<br />
   3.1 Model_LSTM.ipynb : Use to train a model for prediction<br />
   #Use Dataset directory to open stock data<br />
+  <br />
 4.Simulation<br />
   4.1 buyhold.ipynb : use to simulate buy and hold trades<br />
   4.2 simulation.ipynb : use to simulate our model trades (#use Model_LSTM.h5)<br />
+<br />
 5.Dataset and etc<br />
   -Files required for the program<br />
   <br />
